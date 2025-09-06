@@ -1,0 +1,23 @@
+# Monkkey Webshop Product Requirements Document (PRD)
+
+## Table of Contents
+
+- [Monkkey Webshop Product Requirements Document (PRD)](#table-of-contents)
+  - [Goals and Background Context](./goals-and-background-context.md)
+    - [Goals](./goals-and-background-context.md#goals)
+    - [Background Context](./goals-and-background-context.md#background-context)
+  - [Change Log](./change-log.md)
+  - [Requirements](./requirements.md)
+    - [Functional](./requirements.md#functional)
+    - [Non-Functional](./requirements.md#non-functional)
+  - [User Interface Design Goals](./user-interface-design-goals.md)
+    - [Overall UX Vision](./user-interface-design-goals.md#overall-ux-vision)
+    - [Key Interaction Paradigms](./user-interface-design-goals.md#key-interaction-paradigms)
+    - [Core Screens and Views](./user-interface-design-goals.md#core-screens-and-views)
+    - [Accessibility](./user-interface-design-goals.md#accessibility)
+    - [Target Device and Platforms](./user-interface-design-goals.md#target-device-and-platforms)
+  - [Technical Assumptions](./technical-assumptions.md)
+    - [Repository Structure](./technical-assumptions.md#repository-structure)
+    - [Service Architecture](./technical-assumptions.md#service-architecture)
+    - [Testing Requirements](./technical-assumptions.md#testing-requirements)
+  - [Epic List](./epic-list.md)
