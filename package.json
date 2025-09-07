@@ -1,0 +1,24 @@
+{
+  "name": "monkkey-webshop",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Monkkey Webshop - Unique personalized gifts platform",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=apps/web",
+    "build": "npm run build --workspace=apps/web",
+    "test": "echo \"Test command placeholder - will be configured in Story 1.6\"",
+    "lint": "npm run lint --workspaces --if-present",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,md}\""
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
